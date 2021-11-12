@@ -88,6 +88,14 @@ span{
     background-size: 10%;
 }
 
+.item:hover {
+    background: #304C4F;
+}
+
+.item-2:hover {
+    background: #304C4F;
+}
+
 @media (max-width:900px) {
     .main {
         flex-direction: column;
